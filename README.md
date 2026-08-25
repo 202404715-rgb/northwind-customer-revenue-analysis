@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c1e48f5-776e-4545-b9a9-ebd6e6724cb7" /># Northwind Customer Revenue & Retention Analysis
+# Northwind Customer Revenue & Retention Analysis
 
 A business-focused data analysis project built on the Northwind dataset to identify **customer value, revenue concentration, retention risks, and operational performance**.
 
@@ -34,3 +34,4 @@ The analysis started with SQL-based data exploration and validation, followed by
 The objective was not simply to visualize the data, but to answer:
 
 > **Which customers and business areas require attention, and where can the company take action to protect revenue and improve retention?**
+
