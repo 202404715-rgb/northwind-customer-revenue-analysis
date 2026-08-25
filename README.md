@@ -11,7 +11,14 @@ A business-focused data analysis project built on the Northwind dataset to ident
 * **1.53K** Average Order Value
 * **9.33** Average Orders per Customer
 * Top customers show a strong concentration of revenue, making customer retention a key business priority.
+Dashboard Preview
+-Customer Revenue & Retention:
+The first page focuses on customer value, revenue concentration, customer segmentation, recency, and retention priorities.
 
+-Business Performance & Operations:
+The second page focuses on sales trends, shipping performance, employee sales contribution, and operational exceptions.
+
+Conclusion
 ## What I Analyzed
 
 * Customer Revenue & Value
