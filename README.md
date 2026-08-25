@@ -11,6 +11,7 @@ A business-focused data analysis project built on the Northwind dataset to ident
 * **1.53K** Average Order Value
 * **9.33** Average Orders per Customer
 * Top customers show a strong concentration of revenue, making customer retention a key business priority.
+  
 Dashboard Preview
 
 -Customer Revenue & Retention:
